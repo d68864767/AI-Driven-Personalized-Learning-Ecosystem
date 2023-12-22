@@ -1,0 +1,30 @@
+# Machine Learning Libraries
+tensorflow==2.4.1
+pytorch==1.7.1
+
+# Backend Framework
+Django==3.1.7
+
+# Frontend Framework
+react==17.0.1
+
+# Database
+psycopg2==2.8.6
+pymongo==3.11.3
+
+# Cloud Services
+boto3==1.17.21
+
+# Analytics
+google-analytics-python==1.0.0
+
+# Testing
+pytest==6.2.2
+
+# Other Libraries
+numpy==1.19.5
+pandas==1.2.3
+scikit-learn==0.24.1
+matplotlib==3.3.4
+seaborn==0.11.1
+<FINAL_CODE>
